@@ -2,3 +2,4 @@
 
 Prénom : Andréa
 Prénom formateur : Romain 
+Localisation campus : Remote
